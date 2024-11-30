@@ -1,0 +1,12 @@
+matplotlib<3.9.99
+pandas<2.2.99
+bs4<0.0.99
+requests<2.32.99
+streamlit<1.40.99
+plotly<5.24.99
+tiktoken<0.8.99
+openai<1.55.99
+nltk<3.9.99
+google-generativeai<0.8.99
+bs4<0.0.99
+requests<2.32.99
